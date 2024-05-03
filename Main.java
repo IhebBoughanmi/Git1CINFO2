@@ -32,19 +32,6 @@ public class Main {
 //        myZoo2.addAnimal(a2);
 //        System.out.println(Zoo.comparerZoo(myZoo,myZoo2));
 
-     //   Aquatique aqua1=new Aquatique("aqua 1","aqua name",3,true,"ocean");
-        Dauphin dauph1=new Dauphin("dauphin 1","dauph",2,true,"ocean",1.2f);
-
-        Pingouin pin1=new Pingouin("pin 1","pin",2,true,"ocean",1.2f);
-      //  System.out.println(aqua1.toString());
-        System.out.println(dauph1);
-     //   aqua1.swim();
-        dauph1.swim();
-        pin1.swim();
-
-       // myZoo.addAquaticAnimal(aqua1);
-        myZoo.addAquaticAnimal(dauph1);
-        myZoo.addAquaticAnimal(pin1);
 
 myZoo.getSwim();
 
