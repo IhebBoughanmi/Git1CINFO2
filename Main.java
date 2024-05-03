@@ -16,13 +16,6 @@ public class Main {
         System.out.println(a1.family);
         System.out.println(a1.name);
         System.out.println(a1.isMammal);
-*/
-        Animal a2=new Animal("cats","tigre",3,true);
-       /* System.out.println(a2.age);
-        System.out.println(a2.family);
-        System.out.println(a2.name);
-        System.out.println(a2.isMammal);
-*/
 
         Zoo myZoo=new Zoo("myZoo","tunis");
         //myZoo.displayZoo();
