@@ -18,13 +18,8 @@ public class Main {
         System.out.println(a1.isMammal);
 
         Zoo myZoo=new Zoo("myZoo","tunis");
-
-        //zokomodoré
-        //last try 
-        //si zebiii
-        //3am zebi
  
-        //dernebbou kataga
+ 
         myZoo.getSwim();
 
     }
