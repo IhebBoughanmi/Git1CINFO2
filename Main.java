@@ -19,7 +19,7 @@ public class Main {
 
         Zoo myZoo=new Zoo("myZoo","tunis");
 
-        System.out.println("resolving conflict");
+        System.out.println("Making Conflict");
 
  
         myZoo.getSwim();
