@@ -18,7 +18,8 @@ public class Main {
         System.out.println(a1.isMammal);
 
         Zoo myZoo=new Zoo("myZoo","tunis");
-        //hiiiiiiiiiii again
+        //hiiiiiiiiiii 
+        //si zebiii
         myZoo.getSwim();
 
     }
